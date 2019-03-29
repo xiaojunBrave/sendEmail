@@ -1,0 +1,10 @@
+D:\Desktop\新建文件夹\发送邮件\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Desktop\新建文件夹\发送邮件\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Desktop\新建文件夹\发送邮件\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Desktop\新建文件夹\发送邮件\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LumiSoft.Net.dll
+D:\Desktop\新建文件夹\发送邮件\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Desktop\新建文件夹\发送邮件\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Desktop\新建文件夹\发送邮件\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Desktop\新建文件夹\发送邮件\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Desktop\新建文件夹\发送邮件\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Desktop\新建文件夹\发送邮件\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
